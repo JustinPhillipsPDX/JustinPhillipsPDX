@@ -1,4 +1,7 @@
-### Hi there 👋
+[![MasterHead](https://media.licdn.com/dms/image/C5616AQFMuMEBJZlbIw/profile-displaybackgroundimage-shrink_350_1400/0/1628897854912?e=1695859200&v=beta&t=z-5c7d03hYDqL06JCC6HBcF3hx50-Wu0VjeRFLC0XYQ)](https://github.com/JustinPhillipsPDX)
+<h1 align="center">Hi 👋, I'm Justin Phillips</h1>
+<h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
+<p align="left"></p>
 
 <!--
 **JustinPhillipsPDX/JustinPhillipsPDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

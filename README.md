@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
 <br  />
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustinPhillipsPDX&theme=tokyonight#gh-dark-mode-only)](https://github.com/JustinPhillipsPDX#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustinPhillipsPDX&theme=default#gh-light-mode-only)](https://github.com/JustinPhillipsPDX#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustinPhillipsPDX&langs_count=8&theme=tokyonight#gh-dark-mode-only)](https://github.com/JustinPhillipsPDX#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustinPhillipsPDX&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/JustinPhillipsPDX#gh-light-mode-only)
 
 <br  />
 

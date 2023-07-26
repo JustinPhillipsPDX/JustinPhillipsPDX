@@ -9,8 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinPhillipsPDX&layout=compact&langs_count=8&card_width=500px&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinPhillipsPDX&layout=compact&langs_count=8&card_width=500px&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JustinPhillipsPDX&show_icons=true&rank_icon=github&card_width=500px&theme=tokyonight#gh-dark-mode-only)](https://github.com/JustinPhillipsPDX#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JustinPhillipsPDX&show_icons=true&rank_icon=github&card_width=500px&theme=default#gh-light-mode-only)](https://github.com/JustinPhillipsPDX#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JustinPhillipsPDX&show_icons=true&rank_icon=github&card_width=500px&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JustinPhillipsPDX&show_icons=true&rank_icon=github&card_width=500px&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQFMuMEBJZlbIw/profile-displaybackgroundimage-shrink_350_1400/0/1628897854912?e=1695859200&v=beta&t=z-5c7d03hYDqL06JCC6HBcF3hx50-Wu0VjeRFLC0XYQ)](https://github.com/JustinPhillipsPDX)
+[![MasterHead](https://raw.githubusercontent.com/JustinPhillipsPDX/JustinPhillipsPDX/refs/heads/main/MasterHead.jpg)](https://github.com/JustinPhillipsPDX)
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
 

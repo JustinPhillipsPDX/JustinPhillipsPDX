@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/JustinPhillipsPDX/JustinPhillipsPDX/refs/heads/main/MasterHead.jpg)](https://github.com/JustinPhillipsPDX)
-<h1 align="center">Hi 👋, I'm Justin</h1>
+#
 <h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
 
 <br  />
